@@ -1,0 +1,10 @@
+Started a virtual environment to isolate the python packages to avoid collision/conflicts with existing ones
+
+installed Flask_wtf with pip install -U Flask-WTF
+For easy web forms rendering
+DOCS: https://flask-wtf.readthedocs.io/en/1.2.x/
+
+Installed SQLAlchemy
+Makes interaction with Database with objects and storage less labourious
+Installed flask migrate
+finally got the form running took me awhile
