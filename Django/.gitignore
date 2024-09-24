@@ -6,3 +6,4 @@ venv/
 *~
 *.swp
 *.exe
+.pre-commit-config.yaml
